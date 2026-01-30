@@ -17,7 +17,7 @@ jobs:
   terraform-apply:
 
     runs-on: ubuntu-latest
-
+    environment: production
 
 
     steps:
